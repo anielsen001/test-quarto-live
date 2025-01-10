@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test quarto live",
+    "section": "",
+    "text": "The embedded code must run from a server, not an html file, so use quarto preview\nThis is a Quarto website testing the https://github.com/r-wasm/quarto-live extension.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
