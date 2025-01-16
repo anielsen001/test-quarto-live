@@ -1,0 +1,14 @@
+---
+title: quarto live resources
+format: live-html
+resources:
+  - /opt/project/data
+---
+
+
+```{pyodide}
+from os import listdir
+import pandas as pd
+print(listdir("data"))
+#pd.read_csv('data/mtcars.csv')
+```
