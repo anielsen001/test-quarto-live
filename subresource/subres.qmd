@@ -2,7 +2,9 @@
 title: quarto live resources
 format: live-html
 resources:
-  - data
+  - ../data # working
+  # - /data # not-working
+  # - /opt/project/data # not-working
 ---
 
 
